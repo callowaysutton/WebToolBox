@@ -10,7 +10,11 @@ Try the tool: [Tool Box](https://callowaysutton.github.io/WebToolBox)
 
 ## 🧐 Features
 
-- **Feature**
+- Fully responsive
+- Supports PWA installation
+- Easily etendable
+- Simple and intuitive workflow
+- Lightning fast browsing speeds thanks to prefetching
 
 ## 🛠️ Installation Steps
 
