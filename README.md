@@ -10,7 +10,7 @@ You can also export as a static site by running `npm run export` and then using 
 # How to Contribute
 Contributing is very easy! Navigate to the file `/src/routes/tools/_tools.js` and open that up inside of a new Webstorm tab.
 Using this template:
-```
+```svelte
 {
         title: 'Example Title',
         slug: 'theURL-cannothavespaces',
