@@ -1,14 +1,54 @@
 # Web Toolbox
 Web Toolbox is a deadsimple web app that is meant to provide an easy way for users to convert different types of data into different formats in order to ease stress about finding a tool online they could use. Since it just uses vanilla HTML, CSS and Javascript, it can be easily extended to support new and different type of conversions.
 
-# How to Use
-Node is a requirement and it's recommended to use Webstorm without tabbing and installing is as simple as running `npm i`
-Afterwards, to run the developer server, run `npm run dev`
+## 🚀 Demo 
+<a href="https://callowaysutton.github.io/WebToolBox" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fcallowaysutton.github.io%2FWebToolBox&logo=github&style=flat-square" />
+</a>
 
-You can also export as a static site by running `npm run export` and then using the files in `__sapper__/export`.
+Try the tool: [Tool Box](https://callowaysutton.github.io/WebToolBox)
 
-# How to Contribute
-Contributing is very easy! Navigate to the file `/src/routes/tools/_tools.js` and open that up inside of a new Webstorm tab.
+## 🧐 Features
+
+- **Feature**
+
+## 🛠️ Installation Steps
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/callowaysutton/WebToolBox.git
+```
+
+2. Change the working directory
+
+```bash
+cd WebToolBox
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run the app
+
+```bash
+npm run dev
+```
+
+5. You can also export as a static site to the `__sapper__/export` directory
+
+```bash
+npm run export
+```
+
+🌟 You are all set!
+
+## 🍰 Contributing
+
+Navigate to the file `/src/routes/tools/_tools.js` and open that up inside of a new Webstorm tab.
 Using this template:
 ```svelte
 {
@@ -35,12 +75,16 @@ Using this template:
 Copy and paste that to the top of the array and use that as your starting point for creating your converter.
 Afterwards, use simple HTML, CSS and Javascript to finish creating your page and make a Pull Request on Github where me, and possibly others, can review the code, add suggestion and eventually push it through into production.
 
-# PWA and Extra Features
+Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/callowaysutton/WebToolBox/compare).
+
+Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
+
+## PWA and Extra Features
 This website is almost 100% PWA ready and is almost ready to be shipped to the Progressive Web App Store, however I'm running into some issues with the cache not working after you close the app, which means no offline access, and help would be very much appreciated.
 
 The web app also should be mostly mobile friendly, however I do not have any modern day devices to test out how it performs and looks on real hardware.
 
-# To Do
+## TODO
 * [ ] Dark Mode
 - [ ] Fully Offline PWA
 - - [x] PWA Support
