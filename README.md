@@ -7,7 +7,7 @@ Web Toolbox is a deadsimple web app that is meant to provide an easy way for use
 <img src="https://img.shields.io/website?url=https%3A%2F%2Fcallowaysutton.github.io%2FWebToolBox&logo=github&style=flat-square" />
 </a>
 <p>
-Try the tool: [Web Toolbox](https://callowaysutton.github.io/WebToolBox)
+        Try the tool: <a href="https://callowaysutton.github.io/WebToolBox">Web Toolbox</a>
 </p>
 
 ## 🧐 Features
