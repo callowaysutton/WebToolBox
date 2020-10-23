@@ -1,5 +1,5 @@
 # Web Toolbox
-Web Toolbox is a deadsimple web app that is meant to provide an easy way for users to convert different types of data into different formats in order to ease stress about finding a tool online they could use. Since it just uses vanilla HTML, CSS and Javascript, it can be easily extended to support new and different type of conversions.
+Web Toolbox is a deadsimple web app that is meant to provide an easy way for uers to convert diferent types of data into different formats in order to ease stress about finding a tool online they could use. Since it just uses vanilla HTML, CSS and Javascript, it can be easily extended to support new and diferent type of conversons.
 
 ## 🚀 Demo 
 <a href="https://callowaysutton.github.io/WebToolBox" target="blank">
@@ -92,7 +92,6 @@ This website is almost 100% PWA ready and is almost ready to be shipped to the P
 The web app also should be mostly mobile friendly, however I do not have any modern day devices to test out how it performs and looks on real hardware.
 
 ## TODO
-* [ ] Dark Mode
 - [ ] Fully Offline PWA
 - - [x] PWA Support
 * [ ] Switching from the Sapper template
