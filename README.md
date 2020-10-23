@@ -2,7 +2,6 @@
 Web Toolbox is a deadsimple web app that is meant to provide an easy way for users to convert different types of data into different formats in order to ease stress about finding a tool online they could use. Since it just uses vanilla HTML, CSS and Javascript, it can be easily extended to support new and different type of conversions.
 
 ## 🚀 Demo 
-[![DeepSource](https://deepsource.io/gh/callowaysutton/WebToolBox.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/callowaysutton/WebToolBox/?ref=repository-badge)
 <a href="https://callowaysutton.github.io/WebToolBox" target="blank">
 <img src="https://img.shields.io/website?url=https%3A%2F%2Fcallowaysutton.github.io%2FWebToolBox&logo=github&style=flat-square" />
 </a>
@@ -53,6 +52,8 @@ npm run export
 🌟 You are all set!
 
 ## 🍰 Contributing
+
+[![DeepSource](https://deepsource.io/gh/callowaysutton/WebToolBox.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/callowaysutton/WebToolBox/?ref=repository-badge)
 
 Navigate to the file `/src/routes/tools/_tools.js` and open that up inside of a new Webstorm tab.
 Using this template:
