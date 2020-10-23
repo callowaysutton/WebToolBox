@@ -1,0 +1,25 @@
+{
+  "name": "web-toolbox",
+  "description": "A webapp full of tools for making it easier to get stuff done within your daily life",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "sapper dev",
+    "build": "sapper build",
+    "export": "sapper export",
+    "start": "node __sapper__/build"
+  },
+  "dependencies": {
+    "compression": "^1.7.1",
+    "polka": "next",
+    "sirv": "^1.0.0",
+    "svelte-routing": "^1.4.2"
+  },
+  "devDependencies": {
+    "file-loader": "^6.0.0",
+    "sapper": "^0.28.0",
+    "svelte": "^3.29.4",
+    "svelte-loader": "^2.9.0",
+    "webpack": "^4.7.0",
+    "webpack-modules": "^1.0.0"
+  }
+}
