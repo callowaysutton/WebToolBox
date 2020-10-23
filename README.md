@@ -92,6 +92,7 @@ This website is almost 100% PWA ready and is almost ready to be shipped to the P
 The web app also should be mostly mobile friendly, however I do not have any modern day devices to test out how it performs and looks on real hardware.
 
 ## TODO
+* [ ] Dark Mode
 - [ ] Fully Offline PWA
 - - [x] PWA Support
 * [ ] Switching from the Sapper template
