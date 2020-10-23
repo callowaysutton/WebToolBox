@@ -1,5 +1,5 @@
 # Web Toolbox
-Web Toolbox is a deadsimple web app that is meant to provide an easy way for uers to convert diferent types of data into different formats in order to ease stress about finding a tool online they could use. Since it just uses vanilla HTML, CSS and Javascript, it can be easily extended to support new and diferent type of conversons.
+Web Toolbox is a deadsimple web app that is meant to provide an easy way for users to convert different types of data into different formats in order to ease stress about finding a tool online they could use. Since it just uses vanilla HTML, CSS and Javascript, it can be easily extended to support new and different type of conversions.
 
 ## 🚀 Demo 
 <a href="https://callowaysutton.github.io/WebToolBox" target="blank">
