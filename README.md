@@ -95,6 +95,5 @@ The web app also should be mostly mobile friendly, however I do not have any mod
 * [ ] Dark Mode
 - [ ] Fully Offline PWA
 - - [x] PWA Support
-* [ ] Switching from the Sapper template
 - [ ] Switching from Webpack to Rollup
 - [ ] Make Example Converters
